@@ -125,6 +125,11 @@
     "symbol": "ANKOR"
   },
   {
+    "address": "0xCD88f99Adf75A9110c0bcd22695A32A20eC54ECb",
+    "name": "SelfClaw",
+    "symbol": "SELFCLAW"
+  },
+  {
     "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
     "name": "Allbridge",
     "symbol": "ABR"
